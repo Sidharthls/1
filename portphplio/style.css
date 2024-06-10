@@ -1,0 +1,54 @@
+body{
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210828/pngtree-frosted-glass-texture-frosted-white-gray-background-image_771741.jpg);
+    background-size: cover;
+}
+#sidh{
+   
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  box-shadow: 0 0 10px;
+  margin-top: 10px;
+  width: 33%;
+  height: 25%;
+  
+}
+.sid{
+    text-align: center;
+    background-color: white;
+    height: 500px;
+    width: 400px;
+    margin-top: 120px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px;
+    margin-left: 545px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.fa:hover {
+  opacity: 0.7;
+
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  .fa-envelop{
+    background: #125688;
+    color: white;
+  }
+  .fa-facebook {
+    background: #125688;
+    color: white;
+  }
+  .fa-whatsapp {
+    background: #125688;
+    color: white;
+  }
